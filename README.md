@@ -6,5 +6,6 @@
 
 # Programming Language:
  - flutter
+ - dart
 
 Don't forget to leave a ⭐ if you found this useful.
